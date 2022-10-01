@@ -60,3 +60,5 @@ SUGOIアーキテクチャを導入した結果、課題だった稼働率は99.
 YABAIアーキテクチャの採用も検討したいところだが、その際は同じ轍を踏まないようにこれら点も精査して設計に臨みたい。
 
 ```
+## Reference
+[Homepage of the ADR GitHub organization](https://adr.github.io/)
